@@ -37,10 +37,10 @@
         
         // Slides
         { type: 'ppt', title: 'ML Unit 1 Slides', subtitle: 'Machine Learning', url: '/viewer.html?mode=image&count=118&src=/public/subjects/ML/Unit1_slides/', icon: 'ppt' },
-        { type: 'ppt', title: 'OS Unit 1 Slides', subtitle: 'Operating Systems', url: '/viewer.html?mode=image&src=/public/subjects/OS/OS_UNIT_1/', icon: 'ppt' },
-        { type: 'ppt', title: 'OS Unit 2 Slides', subtitle: 'Operating Systems', url: '/viewer.html?mode=image&src=/public/subjects/OS/OS_UNIT_2/', icon: 'ppt' },
-        { type: 'ppt', title: 'OS Unit 3 Slides', subtitle: 'Operating Systems', url: '/viewer.html?mode=image&src=/public/subjects/OS/Unit3_slides/', icon: 'ppt' },
-        { type: 'ppt', title: 'AI/DL Unit 1 Slides', subtitle: 'AI & Deep Learning', url: '/viewer.html?mode=image&src=/public/subjects/AI_DL/Unit1_slides/', icon: 'ppt' },
+        { type: 'ppt', title: 'OS Unit 1 Slides', subtitle: 'Operating Systems', url: '/viewer.html?mode=image&count=54&src=/public/subjects/OS/OS_UNIT_1/', icon: 'ppt' },
+        { type: 'ppt', title: 'OS Unit 2 Slides', subtitle: 'Operating Systems', url: '/viewer.html?mode=image&count=65&src=/public/subjects/OS/OS_UNIT_2/', icon: 'ppt' },
+        { type: 'ppt', title: 'OS Unit 3 Slides', subtitle: 'Operating Systems', url: '/viewer.html?mode=image&count=56&src=/public/subjects/OS/Unit3_slides/', icon: 'ppt' },
+        { type: 'ppt', title: 'AI/DL Unit 1 Slides', subtitle: 'AI & Deep Learning', url: '/viewer.html?mode=image&count=54&src=/public/subjects/AI_DL/Unit1_slides/', icon: 'ppt' },
     ];
 
     // ============================================
